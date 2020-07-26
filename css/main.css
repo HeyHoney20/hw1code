@@ -1,0 +1,19 @@
+p {background-color: lightcoral;
+}
+#paragraph1 { 
+  background-color: aquamarine;
+} 
+.padding10 {
+  padding: 10px
+}
+.padding20 {
+  padding: 20px;
+}
+.horizontallist {
+  /* display: inline; */
+  backround-color: lightcoral
+}
+.horizontallistpadding {
+  background-color: lightcoral;
+  padding: 10px;
+}
